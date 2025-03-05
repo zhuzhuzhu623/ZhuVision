@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\CommonModels\CommonModels\bin\Debug\CommonModels.dll
+C:\Users\Administrator\Desktop\CommonModels\CommonModels\bin\Debug\CommonModels.pdb
+C:\Users\Administrator\Desktop\CommonModels\CommonModels\obj\Debug\CommonModels.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CommonModels\CommonModels\obj\Debug\CommonModels.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CommonModels\CommonModels\obj\Debug\CommonModels.dll
+C:\Users\Administrator\Desktop\CommonModels\CommonModels\obj\Debug\CommonModels.pdb
