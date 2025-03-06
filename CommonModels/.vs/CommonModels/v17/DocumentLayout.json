@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\CommonModels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E73692-557D-44AE-8AB0-9D32DE423FBA}|CommonModels\\CommonModels.csproj|c:\\users\\administrator\\desktop\\commonmodels\\commonmodels\\bllmodel\\bllresultfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E73692-557D-44AE-8AB0-9D32DE423FBA}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\bllmodel\\bllresultfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E73692-557D-44AE-8AB0-9D32DE423FBA}|CommonModels\\CommonModels.csproj|c:\\users\\administrator\\desktop\\commonmodels\\commonmodels\\bllmodel\\bllresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E73692-557D-44AE-8AB0-9D32DE423FBA}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\bllmodel\\bllresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E73692-557D-44AE-8AB0-9D32DE423FBA}|CommonModels\\CommonModels.csproj|c:\\users\\administrator\\desktop\\commonmodels\\commonmodels\\bllmodel\\bllexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E73692-557D-44AE-8AB0-9D32DE423FBA}|CommonModels\\CommonModels.csproj|solutionrelative:commonmodels\\bllmodel\\bllexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BllResultFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CommonModels\\CommonModels\\BLLModel\\BllResultFactory.cs",
+              "RelativeDocumentMoniker": "CommonModels\\BLLModel\\BllResultFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CommonModels\\CommonModels\\BLLModel\\BllResultFactory.cs",
+              "RelativeToolTip": "CommonModels\\BLLModel\\BllResultFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:37:39.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BllResult.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CommonModels\\CommonModels\\BLLModel\\BllResult.cs",
+              "RelativeDocumentMoniker": "CommonModels\\BLLModel\\BllResult.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CommonModels\\CommonModels\\BLLModel\\BllResult.cs",
+              "RelativeToolTip": "CommonModels\\BLLModel\\BllResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:37:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BllException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\CommonModels\\CommonModels\\BLLModel\\BllException.cs",
+              "RelativeDocumentMoniker": "CommonModels\\BLLModel\\BllException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\CommonModels\\CommonModels\\BLLModel\\BllException.cs",
+              "RelativeToolTip": "CommonModels\\BLLModel\\BllException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T02:37:18.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
