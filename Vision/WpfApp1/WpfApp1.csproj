@@ -100,10 +100,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CommonModels\CommonModels\CommonModels.csproj">
-      <Project>{c1e73692-557d-44ae-8ab0-9d32de423fba}</Project>
-      <Name>CommonModels</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Vision\Vision.csproj">
       <Project>{ab17dd5b-858d-405d-922a-2c2cc2564828}</Project>
       <Name>Vision</Name>
