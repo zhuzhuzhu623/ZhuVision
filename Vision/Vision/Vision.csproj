@@ -373,6 +373,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\hdevenginedotnet.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\en6800-debug-vp91\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -389,15 +393,17 @@
   <ItemGroup>
     <Compile Include="Common\EntitisResult\ReadCodeResult.cs" />
     <Compile Include="Common\EntitisResult\MatchingResult.cs" />
+    <Compile Include="Common\Entitis\NinePointEntity.cs" />
     <Compile Include="Common\Enums\EmCodeType.cs" />
     <Compile Include="Common\Enums\EmTargetType.cs" />
+    <Compile Include="Common\VisionConfig.cs" />
     <Compile Include="Halcon\HalconHelper.cs" />
     <Compile Include="Halcon\HalconService.cs" />
     <Compile Include="IVision.cs" />
     <Compile Include="OpenCv\OpenCvService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Common\Entitis\MatchingEntity.cs" />
-    <Compile Include="VisionConfig.cs" />
+    <Compile Include="VisionHelper.cs" />
     <Compile Include="VisionPro\VisionProService.cs" />
   </ItemGroup>
   <ItemGroup>

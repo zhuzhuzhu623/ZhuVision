@@ -16,6 +16,7 @@ using Cognex.VisionPro.ImageProcessing;
 using Cognex.VisionPro.PMAlign;
 using CommonModels.BllModel;
 using HalconDotNet;
+using Vision.Common.Entitis;
 using Vision.Common.EntitisResult;
 using Vision.Common.Enums;
 using Vision.VisionPro.Common;
@@ -36,6 +37,12 @@ namespace Vision.VisionPro
         /// 获取当前轴的坐标
         /// </summary>
         public event Func<(int, int)> GetCurrentAxisValue;
+
+        /// <summary>
+        /// 获取当前图片
+        /// </summary>
+        public event Func<Bitmap> GetCameraImage;
+
         /// <summary>
         /// 
         /// </summary>
@@ -199,6 +206,7 @@ namespace Vision.VisionPro
             {
                 NPointCalib.Calibration.DeletePointPair(n - 1 - i);
             }
+            VisionHelper.VisionConfig.NinePointEntities = new List<Vision.Common.Entitis.NinePointEntity>();
             var resultAxis = GetCurrentAxisValue();
             int stepX = 4000;
             int stepY = 3000;
@@ -215,32 +223,33 @@ namespace Vision.VisionPro
                         return BllResultFactory.Error();
                     Thread.Sleep(1000);
 
-                    if (NPointCalib.Results.Count == 1)
-                    {
-                        CogPMAlignResult result = Vision.m_CalibPMA.Results[0];
-                        double dx = Math.Round(result.GetPose().TranslationX, 4);
-                        double dy = Math.Round(result.GetPose().TranslationY, 4);
-                        NPointCalib.Calibration.AddPointPair(dx, dy, stepX * j, stepY * (2 - i));
-                        SystemSetting.s_VisionCalibrationPoints[iIndex].dUnCalibratedX = dx;
-                        SystemSetting.s_VisionCalibrationPoints[iIndex].dUnCalibratedY = dy;
-                        SystemSetting.s_VisionCalibrationPoints[iIndex].dRawCalibratedX = iStepX * j;
-                        SystemSetting.s_VisionCalibrationPoints[iIndex].dRawCalibratedY = iStepY * (2 - i);
-                    }
-                    else
-                    {
+                   var resultImage = GetCameraImage();
 
-                        return;
-                    }
+                    MathcingRun mathcingRun = new MathcingRun();    
+                    mathcingRun.Bitmap = resultImage;   
+                    mathcingRun.SearchArea = false;
+                    var resultMatching = Matching(mathcingRun);
+
+                    if (!resultMatching.Success) return BllResultFactory.Error();
+                    double dx = resultMatching.Data[0].X;
+                    double dy = resultMatching.Data[0].Y;
+
+                    NPointCalib.Calibration.AddPointPair(dx, dy, stepX * j, stepY * (2 - i));
+
+                    NinePointEntity ninePointEntity = new NinePointEntity();
+
+                    ninePointEntity.UnCalibratedX = dx;
+                    ninePointEntity.UnCalibratedY = dy;
+                    ninePointEntity.RawCalibratedX = stepX * j;
+                    ninePointEntity.RawCalibratedY = stepY * (2 - i);
+                    VisionHelper.VisionConfig.NinePointEntities.Add(ninePointEntity);
 
                     Thread.Sleep(100);
                 }
             }
-                Vision.m_NPointCalib.Calibration.Calibrate();
+            NPointCalib.Calibration.Calibrate();
 
-
-
-
-
+            VisionHelper.Save();
 
             return BllResultFactory.Sucess();
         }

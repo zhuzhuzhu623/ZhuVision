@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\visionpro\\visionproservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\visionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\visionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|c:\\users\\administrator\\documents\\github\\zhuvision\\vision\\vision\\common\\entitis\\ninepointentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\common\\entitis\\ninepointentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|c:\\users\\administrator\\documents\\github\\zhuvision\\vision\\vision\\common\\visionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\common\\visionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|c:\\users\\administrator\\documents\\github\\zhuvision\\vision\\vision\\visionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\visionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\ivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\ivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\common\\entitis\\matchingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\common\\entitis\\matchingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EC336C5-ABC8-4C17-85BD-51498D08E86A}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -20,10 +36,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Vision||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\common\\entitis\\matchingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\common\\entitis\\matchingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\halcon\\halconhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,10 +60,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\common\\enums\\emtargettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\common\\enums\\emtargettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\vision\\ivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB17DD5B-858D-405D-922A-2C2CC2564828}|Vision\\Vision.csproj|solutionrelative:vision\\ivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\administrator\\desktop\\commonmodels\\commonmodels\\bllmodel\\bllexception.cs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -83,10 +91,36 @@
               "RelativeDocumentMoniker": "Vision\\VisionPro\\VisionProService.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\VisionPro\\VisionProService.cs",
               "RelativeToolTip": "Vision\\VisionPro\\VisionProService.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAswKIAAABOAAAA",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAswPAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T01:40:13.406Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NinePointEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\Entitis\\NinePointEntity.cs",
+              "RelativeDocumentMoniker": "Vision\\Common\\Entitis\\NinePointEntity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\Entitis\\NinePointEntity.cs",
+              "RelativeToolTip": "Vision\\Common\\Entitis\\NinePointEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:34:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\VisionConfig.cs",
+              "RelativeDocumentMoniker": "Vision\\Common\\VisionConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\VisionConfig.cs",
+              "RelativeToolTip": "Vision\\Common\\VisionConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:30:13.654Z",
               "EditorCaption": ""
             },
             {
@@ -95,31 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VisionConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\VisionConfig.cs",
-              "RelativeDocumentMoniker": "Vision\\VisionConfig.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\VisionConfig.cs",
-              "RelativeToolTip": "Vision\\VisionConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:26:30.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAmwDoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T02:15:30.445Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "VisionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\VisionHelper.cs",
+              "RelativeDocumentMoniker": "Vision\\VisionHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\VisionHelper.cs",
+              "RelativeToolTip": "Vision\\VisionHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:26:30.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
@@ -130,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ReadCodeResult.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\EntitisResult\\ReadCodeResult.cs",
               "RelativeDocumentMoniker": "Vision\\Common\\EntitisResult\\ReadCodeResult.cs",
@@ -142,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "EmCodeType.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\Enums\\EmCodeType.cs",
               "RelativeDocumentMoniker": "Vision\\Common\\Enums\\EmCodeType.cs",
@@ -154,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BllException.cs.txt",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\CommonModels\\CommonModels\\BLLModel\\BllException.cs.txt",
               "RelativeDocumentMoniker": "CommonModels\\CommonModels\\BLLModel\\BllException.cs.txt",
@@ -166,7 +189,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
+              "Title": "IVision.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\IVision.cs",
+              "RelativeDocumentMoniker": "Vision\\IVision.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\IVision.cs",
+              "RelativeToolTip": "Vision\\IVision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:36:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T02:15:30.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "EmTargetType.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\Enums\\EmTargetType.cs",
               "RelativeDocumentMoniker": "Vision\\Common\\Enums\\EmTargetType.cs",
@@ -184,13 +232,14 @@
               "RelativeDocumentMoniker": "Vision\\Common\\Entitis\\MatchingEntity.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\Entitis\\MatchingEntity.cs",
               "RelativeToolTip": "Vision\\Common\\Entitis\\MatchingEntity.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAcwDIAAAAcAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wCAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T02:49:44.619Z"
+              "WhenOpened": "2025-02-20T02:49:44.619Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Vision",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Vision.csproj",
               "RelativeDocumentMoniker": "Vision\\Vision.csproj",
@@ -201,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "HalconService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Halcon\\HalconService.cs",
               "RelativeDocumentMoniker": "Vision\\Halcon\\HalconService.cs",
@@ -213,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "HalconHelper.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Halcon\\HalconHelper.cs",
               "RelativeDocumentMoniker": "Vision\\Halcon\\HalconHelper.cs",
@@ -225,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MatchingResult.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\Common\\EntitisResult\\MatchingResult.cs",
               "RelativeDocumentMoniker": "Vision\\Common\\EntitisResult\\MatchingResult.cs",
@@ -237,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "BllResult.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\CommonModels\\CommonModels\\BLLModel\\BllResult.cs",
               "RelativeDocumentMoniker": "CommonModels\\CommonModels\\BLLModel\\BllResult.cs",
@@ -249,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BllResultFactory.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\CommonModels\\CommonModels\\BLLModel\\BllResultFactory.cs",
               "RelativeDocumentMoniker": "CommonModels\\CommonModels\\BLLModel\\BllResultFactory.cs",
@@ -261,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BllException.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\CommonModels\\CommonModels\\BLLModel\\BllException.cs",
               "RelativeDocumentMoniker": "CommonModels\\CommonModels\\BLLModel\\BllException.cs",
@@ -270,18 +319,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T01:27:14.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IVision.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\IVision.cs",
-              "RelativeDocumentMoniker": "Vision\\IVision.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\ZhuVision\\Vision\\Vision\\IVision.cs",
-              "RelativeToolTip": "Vision\\IVision.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T01:36:01.752Z"
             }
           ]
         }
